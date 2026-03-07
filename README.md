@@ -3,7 +3,6 @@
 ## Overview
 
 This project demonstrates basic system administration tasks using Microsoft Active Directory in a simulated corporate environment.
-
 The lab replicates common tasks performed by IT Support and Help Desk technicians, including user management, group permissions, and troubleshooting account issues.
 
 
