@@ -14,9 +14,9 @@ The lab replicates common tasks performed by IT Support and Help Desk technician
 - Virtual Machine environment
 
 Domain name:
-
+'''
 corp.local
-
+'''
 
 
 ## Objectives
