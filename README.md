@@ -115,6 +115,7 @@ The issue was resolved by unlocking the account through Active Directory Users a
 Screenshot:
 
 ![Account Lockout](screenshots/ticket02-account-locked.png)
+![Account Unlocked](screenshots/ticket02-account-unlocked.png)
 
 
 
