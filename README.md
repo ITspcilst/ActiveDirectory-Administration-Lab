@@ -196,7 +196,7 @@ services.msc
 
 Screenshot:
 
-![Printer Fixed](screenshots/ticket04-printer-fixed.png)
+![Printer Fixed](screenshots/ticket04-printer-online.png)
 
 ## Verification
 
