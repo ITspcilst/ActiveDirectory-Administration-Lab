@@ -34,7 +34,7 @@ The goal of this lab is to demonstrate practical experience with:
 
 ## Active Directory Installation
 
-Active Directory Domain Services was installed on Windows Server 2022 and the server was promoted to a Domain Controller.
+Active Directory Domain Services was installed on Windows Server 2025 and the server was promoted to a Domain Controller.
 
 Screenshot:
 
