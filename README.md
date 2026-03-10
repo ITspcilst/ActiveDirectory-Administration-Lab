@@ -228,7 +228,8 @@ Unnecessary startup programs were disabled and system cleanup was performed.
 
 Screenshot:
 
-![System Cleanup](screenshots/ticket05-cleanup.png)
+![System Cleanupv1](screenshots/ticket05-cleanup.png)
+![System Cleanupv2](screenshots/ticket05-cleanup2.png)
 
 ## Verification
 
